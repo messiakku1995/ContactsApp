@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.5.0)
+  - IHProgressHUD (0.1.4)
+  - IQKeyboardManagerSwift (6.5.11)
+  - Kingfisher (7.8.1)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.5.0)
+  - IHProgressHUD
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 7.0)
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IHProgressHUD
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  IHProgressHUD: a01846bfbb581c761c79747c67b08387c3bdfae3
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  Kingfisher: 63f677311d36a3473f6b978584f8a3845d023dc5
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: b923bb14e6dddbb537c17375dfb297a1c2ece67a
+
+COCOAPODS: 1.12.0
